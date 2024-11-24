@@ -1,0 +1,1 @@
+Project template for Python projects using Visual Studio Code
